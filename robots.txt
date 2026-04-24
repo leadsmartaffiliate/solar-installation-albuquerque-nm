@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://solar-installation-albuquerque-nm.netlify.app/sitemap.xml
